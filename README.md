@@ -1,4 +1,4 @@
-# PYTHON AUTOMATIC ASSISTAND
+# PYTHON AUTOMATIC ASSISTANT
 
 this is a python project that include AI of OpenCv, detect faces and depend of the hour of the day it will say a greeting, you can do some actions in a xlsx file, send whatsapp messages from a list, and search tech offers in the web using web scraping
 
